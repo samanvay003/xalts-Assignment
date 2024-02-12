@@ -7,3 +7,6 @@ After getting response by hitting curl localhost:5000/health, I know my containe
 Now , I have pushed my dockerimage to dockerhub so that I can use that image under my terraform file.
 
 Using terraform I have provisioned one ec2 instance with proper security groups and then setup docker inside that ec2-instance using terraform only and run one container using that same image that I have pushed to docker-hub.
+
+![image](https://github.com/samanvay003/xalts-Assignment/assets/31175288/329ba4f9-e3de-4df6-be8a-dd806628f5bd)
+
